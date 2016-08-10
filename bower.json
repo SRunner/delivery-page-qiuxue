@@ -1,0 +1,21 @@
+{
+  "name": "runner",
+  "authors": [
+    "DevilLittle <1310265832@qq.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "runner"
+  ],
+  "license": "1234",
+  "homepage": "index",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
